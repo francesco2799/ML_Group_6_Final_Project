@@ -17,7 +17,7 @@ This project examines predictive modeling and algorithmic fairness in mortgage l
 ├── notebooks/
 │   ├── RQ1_Predictive_Models.ipynb
 │   ├── RQ2_Fairness_Audit.ipynb
-│   └── RQ3_Clustering_PCA.ipynb
+│   └── RQ3_Time_Series.ipynb
 └── README.md
 ```
 
