@@ -13,9 +13,7 @@ This section analyzes mortgage approval disparities using HMDA data from 2022 to
 
 Data Access:
 
-Due to file size constraints, the full HMDA datasets (2022–2025) are not stored in this repository.  
-All raw and cleaned datasets used for RQ3 can be accessed via the shared Google Drive folder:  
-https://drive.google.com/drive/folders/1W80sZma7d-KfLuvUjI-VZt6dOOj_dFRZ
+Due to file size constraints, the full HMDA datasets (2022–2025) are not stored in this repository. All raw and cleaned datasets used for RQ3 can be accessed via the shared Google Drive folder: https://drive.google.com/drive/folders/1W80sZma7d-KfLuvUjI-VZt6dOOj_dFRZ
 
 Notes:
 
