@@ -9,12 +9,14 @@ After running the data cleaning code from the proposal, place the cleaned datase
 
 ## RQ3 – Temporal Stability Analysis
 
-This section uses HMDA data from 2022 to 2025 to analyze whether mortgage approval disparities remain stable over time.
+This section analyzes mortgage approval disparities using HMDA data from 2022 to 2025, with a focus on whether these disparities remain stable over time.
 
-The analysis includes:
-- approval rate trends by race across years
-- comparison of disparities over time
-- regression-based predicted approval probabilities controlling for financial variables
+Data Access:
 
-Note:
-The full HMDA datasets (2022–2025) are not uploaded due to file size constraints.
+Due to file size constraints, the full HMDA datasets (2022–2025) are not stored in this repository.  
+All raw and cleaned datasets used for RQ3 can be accessed via the shared Google Drive folder:  
+https://drive.google.com/drive/folders/1W80sZma7d-KfLuvUjI-VZt6dOOj_dFRZ
+
+Notes:
+
+- The cleaned dataset used for RQ3 analysis is `hmda_2022_2025_cleaned_for_rq3.csv`
